@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296752842343",
+    "project_id": "crop-afa57",
+    "storage_bucket": "crop-afa57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296752842343:android:b6765508d3f610513836c2",
+        "android_client_info": {
+          "package_name": "com.example.crop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Clr20Z2UewrDlkt1O5S5M5X0SLM83eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
